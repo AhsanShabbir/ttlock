@@ -3,12 +3,11 @@
   "description": "debug",
   "keywords": [
     "ttlock",
-    "fashop"
   ],
   "license": "Apache-2.0",
   "require": {
     "php": ">=7.2",
-    "guzzlehttp/guzzle": "^7.0"
+    "guzzlehttp/guzzle": "^7.0.1"
   },
   "require-dev": {
     "php": ">=7.2",
